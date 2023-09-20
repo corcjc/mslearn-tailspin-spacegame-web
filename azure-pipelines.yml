@@ -1,8 +1,8 @@
 trigger:
-- main
+- '*'
 
 pool:
-  name: 'Default'
+  name: 'New Token'
 
 variables:
   buildConfiguration: 'Release'
